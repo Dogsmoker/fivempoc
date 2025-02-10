@@ -1,0 +1,20 @@
+{
+  "name": "fiveminjectionpoc",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "dev": "bun run index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/winreg": "^1.2.36",
+    "fs-extra": "^11.3.0",
+    "winreg": "^1.2.5"
+  }
+}
