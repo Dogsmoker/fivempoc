@@ -1,9 +1,5 @@
-# I WONT BE EDITING ANYTHING OR CHANGING ANYTHING, I JUST UPLOADED THE LAST STATE OF IT!!!!!!!
-# 5m poc 
-
-Uhh this was really just a poc for an overlay, but this was mainly the method used. Check out the lib files and read commentents.
-
-Code is 10 iterations of different ideas so naming is abit off and some stuff may have been left on accident, but should be working if brain.
+Uhh some POC for hijacking / interacting with iframes remotely through (chromium remote debugging) stuff.
+I included some example payloads in ./payloads/ like blocking screenshot basic in fivem etc.
 
 Use for whatever idc
 ```bash
